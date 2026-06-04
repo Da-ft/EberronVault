@@ -1,0 +1,5 @@
+Kaelen war ein kleiner Taschendieb und Straßenschauspieler aus einem Grenzdorf, der den Nebel aus sicherer Entfernung sah und die Panik nutzte, um sich als "einziger Überlebender von Metrol" zu inszenieren.
+
+- **Erscheinung (Tag 1):** Er trägt zerschlissene, aber edel wirkende cyrische Kleidung (gestohlen). Er zittert theatralisch, starrt mit weit aufgerissenen Augen ins Leere und schreit plötzlich Namen von Toten. Er lässt sich in den Tavernen Wein und Essen bezahlen, während er "von den schreienden Türmen" erzählt.
+    
+- **Der "Schatten" (Tag 2):** Die Helden finden ihn in einer Gasse hinter dem Bahnhof. Seine Augen sind trüb, die Pupillen reagieren nicht mehr. Er hat Einstichstellen von magischen Nadeln an den Schläfen (ein Zeichen für _Mind-Probing_). Er sabbert nur noch und formt lautlos Worte, die keinen Sinn ergeben.

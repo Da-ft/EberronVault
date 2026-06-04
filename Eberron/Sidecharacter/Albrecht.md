@@ -1,0 +1,1 @@
+Vyns Onkel und Mentor. Ein erfahrener ehemaliger Inquisitive und Nekromant, der sie rettete und ihr beibrachte, dass Untote Respekt verdienen. Er ist ihre wichtigste Bezugsperson.

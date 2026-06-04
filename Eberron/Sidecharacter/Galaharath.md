@@ -1,0 +1,1 @@
+Ein verstorbener Kalashtar-Vorfahre. Seine Erinnerungen und Visionen plagen Galatari und sind der Grund für ihre Suche in Cyre.

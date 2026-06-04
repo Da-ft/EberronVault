@@ -1,0 +1,1 @@
+Chamiras Elternteil. Arbeitet unter einer permanenten Tarnidentität als Halbelfe für das Haus Medani und bewahrt das Geheimnis ihrer Changeling-Natur streng.

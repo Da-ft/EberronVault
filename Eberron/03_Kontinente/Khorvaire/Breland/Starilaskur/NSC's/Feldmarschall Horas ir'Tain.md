@@ -1,0 +1,5 @@
+**Wer er ist:** Der militärische Gouverneur und Oberbefehlshaber von Starilaskur.
+
+- **Aussehen:** Ein hochgewachsener, älterer Mann mit aristokratischer Haltung und eisgrauem Haar, das akkurat nach hinten gekämmt ist. Er trägt eine schwere, dunkelblaue Prunkrüstung Brelands, die trotz des Erdbebens tadellos sauber wirkt. Seine Augen sind kalt und sein Gesicht ist von einer tiefen Narbe gezeichnet – ein Andenken an eine cyrische Klinge aus dem Krieg.
+    
+- **Kurzer Hintergrund:** Horas entstammt einer der reichsten und einflussreichsten Adelsfamilien des Landes (den ir'Tains aus Sharn). Er ist ein paranoider Militär der alten Schule. Für ihn sind alle cyrischen Flüchtlinge potenzielle Saboteure. Nach dem Schlammkollaps hat er die Stadt komplett abgeriegelt und das Kriegsrecht verschärft. Wer ohne Papiere aufgegriffen wird, landet in den Kerkern der Zitadelle.

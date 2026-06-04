@@ -1,0 +1,5 @@
+**Wer sie ist:** Die Stationsvorsteherin des Zentralbahnhofs von Starilaskur.
+
+- **Aussehen:** Eine Frau in den späten Dreißigern mit scharf geschnittenen Gesichtszügen und tiefen Augenringen vom permanenten Schlafmangel. Sie trägt die eigentlich stolze, blau-goldene Uniform von Haus Orien, die jedoch mit Ruß und Schlamm fleckig ist. Die Ärmel hat sie hochgekrempelt, sodass ihr blau glühendes _Mal der Passage_ auf dem linken Unterarm für jeden sichtbar ist.
+    
+- **Kurzer Hintergrund:** Laara ist für das logistische Herz der Stadt verantwortlich. Nach dem großen Knall und der Bodenverflüssigung steht sie vor den Trümmern ihrer Karriere. Sie ist absolut am Limit, wird von Feldmarschall ir'Tain unter Druck gesetzt und sucht im Chaos verzweifelt nach Söldnern, Magiern oder Schmugglern – nach jedem, der ihr helfen kann, die Kontrolle über die blockierten Züge zurückzuerlangen.

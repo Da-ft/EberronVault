@@ -1,0 +1,1 @@
+Eine Soldatin, mit der Vyn während ihrer Dienstzeit an der Front eine komplizierte On-Off-Beziehung führte.

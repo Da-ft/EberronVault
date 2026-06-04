@@ -1,0 +1,1 @@
+Vyns leiblicher Vater (Elf). Er versuchte, Vyn zu opfern, um seine verstorbene Frau wiederzubeleben. Er sitzt für dieses Verbrechen im Kerker.

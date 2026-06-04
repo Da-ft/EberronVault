@@ -1,0 +1,1 @@
+Ein arroganter Adliger aus Karrnath und Vyns Erzrivale. Die beiden duellieren sich seit Jahren intellektuell und physisch.

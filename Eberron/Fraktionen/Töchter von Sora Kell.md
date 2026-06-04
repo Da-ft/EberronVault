@@ -1,0 +1,1 @@
+Die drei legendären Herrscherinnen von Droaam (Sora Katra, Sora Maenya, Sora Teraza). Pitch wurde indirekt als ihr Werkzeug ausgebildet.

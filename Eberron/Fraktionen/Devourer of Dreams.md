@@ -1,0 +1,1 @@
+Eine bösartige Entität aus der Traumebene Dal Quor, die möglicherweise Jagd auf Galataris Blutlinie macht.

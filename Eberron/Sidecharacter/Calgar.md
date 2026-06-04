@@ -1,0 +1,1 @@
+Ein Ork-Schmied aus Graywall. Er fungierte als Pitchs zweiter Mentor, lehrte ihn den Umgang mit Geld, menschliche Etikette und das Kämpfen mit Stahl.

@@ -1,0 +1,5 @@
+**Wer er ist:** Der lokale Chefermittler des breländischen Geheimdienstes in Starilaskur.
+
+- **Aussehen:** Ein unauffälliger, fast unscheinbarer Mann mittleren Alters in einem schlichten, aschegrauen Mantel. Er hat vogelartig scharfe Augen, die jede Bewegung im Raum scannen. Er spricht extrem leise und trägt immer ein kleines Notizbuch aus schwarzem Leder bei sich, in das er mit manischer Präzision Namen und Uhrzeiten einträgt.
+    
+- **Kurzer Hintergrund:** Varek hat das Telegrafen-Signal von Kommandant Alaric aus Vathirond knapp zwei Minuten vor dem großen Knall empfangen – er weiß also, dass eine abtrünnige Feldwebel (Mirra) und eine Gruppe von Söldnern mit illegaler Fracht auf dem Weg hierher sind. Das Erdbeben hat seine Spione in den Docks durcheinandergebracht, aber er hat bereits eine Ringfahndung im Dockviertel eingeleitet. Er jagt die Gruppe nicht aus Bosheit, sondern mit der kalten Effizienz eines Staatsbeamten.

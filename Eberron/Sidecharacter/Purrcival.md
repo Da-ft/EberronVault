@@ -1,0 +1,1 @@
+Vyns verstorbener Kater. Sein Geist wurde von ihr an die materielle Ebene gebunden und dient ihr nun als untoter Begleiter (Familiar).

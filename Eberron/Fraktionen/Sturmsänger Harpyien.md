@@ -1,0 +1,1 @@
+Eine Gruppe von Harpyien in Graywall, die Pitch als Säugling aufnahmen. Sie erzogen ihn hart und ohne Verständnis für menschliche Normen.
