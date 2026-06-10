@@ -1,4 +1,4 @@
-### 1. Die Kristalline Phythisis (Körperlicher Verfall)
+### 1. Die Kristalline Phthisis (Körperlicher Verfall)
 
 Dies ist die häufigste Form bei jenen, die dem Rand des Nebels zu nahe kamen.
 

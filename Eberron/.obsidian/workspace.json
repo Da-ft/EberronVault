@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "205b84ecb7a7701c",
+            "id": "e0faac789aae8868",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "type": "markdown",
+              "state": {
+                "file": "!Sessionnotes/Session 7 - Kultisten an der Dragons Crown.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 7 - Kultisten an der Dragons Crown"
             }
           },
           {
@@ -160,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "!Sessionnotes/Session 7 - Kultisten an der Dragons Crown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Rückverweise auf Session 7 - Kultisten an der Dragons Crown"
             }
           },
           {
@@ -208,21 +212,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "!Sessionnotes/Session 7 - Kultisten an der Dragons Crown.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Gliederung von Session 7 - Kultisten an der Dragons Crown"
+            }
+          },
+          {
+            "id": "5c1897d8665f79ee",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-agent-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Agent Mode"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 550.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,49 +246,49 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false
+      "bases:Neue Base erstellen": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "205b84ecb7a7701c",
+  "active": "e0faac789aae8868",
   "lastOpenFiles": [
-    "04_Charaktere/Chamira Rangoth.md",
-    "05_Dragonhouses/Haus Medani.md",
-    "02_Backstorys/Pitch Stymphalia.pdf",
-    "01_Tokens/CyreTiger.png",
-    "04_Charaktere/Vyneregard ir Richtruf.md",
-    "00_Main Plot Hooks/Echo-061.md",
-    "00_Main Plot Hooks/Die Nebelkrankheit.md",
-    "!Sessionnotes/Session 6.md",
-    "!Sessionnotes/Session 5.md",
-    "Sidecharacter/Lyssara.md",
-    "05_Dragonhouses/Haus Cannith.md",
-    "[Name.md",
-    "!Sessionnotes/Session 3 Nekromant in Kalazart.md",
-    "05_Dragonhouses/Restliche Häuser.md",
-    "03_Kontinente/Khorvaire/Breland/Vathirond/NSC's/Kaela Mirra d'Medani.md",
-    "03_Kontinente/Khorvaire/Breland/Starilaskur/Das Trauer-Beben Der Schlammkollaps von Starilaskur.md",
-    "03_Kontinente/Khorvaire/Breland/Starilaskur/NSC's/Brant Tolwer Informant.md",
-    "03_Kontinente/Khorvaire/Breland/Starilaskur/Starilaskur - Die Kreuzung Khorvaires.md",
-    "03_Kontinente/Khorvaire/Breland/Vathirond/Vathirond - Das Tor zum Nichts.md",
-    "03_Kontinente/Khorvaire/Breland/Starilaskur/NSC's/Dalvin ,,Der Aal'' Boromar.md",
-    "03_Kontinente/Khorvaire/Breland/Starilaskur/NSC's/Feldmarschall Horas ir'Tain.md",
-    "!Sessionnotes/Session 4 flucht aus Vathirond.md",
-    "04_Charaktere/Pitch Stymphalia.md",
-    "03_Kontinente/Khorvaire/Breland/Starilaskur/NSC's/Kommissar Varek (Die Dunklen Laternen).md",
-    "03_Kontinente/Khorvaire/Breland/Starilaskur/NSC's/Laara d'Orien.md",
-    "03_Kontinente/Khorvaire/Breland/Sharn/Morgrave Universität.md",
-    "03_Kontinente/Khorvaire/Breland/Sharn/Sharn - Die Stadt der Türme.md",
-    "04_Charaktere/Galatari.md",
+    "03_Kontinente/Khorvaire/Breland/Dragons Crown/Dragons Crown Encounter.md",
+    "03_Kontinente/Khorvaire/Breland/Dragons Crown/Dragons Crown.md",
+    "Fraktionen/Die Kammer.md",
+    "Fraktionen/Cults of the Dragon Below.md",
+    "03_Kontinente/Khorvaire/Breland/Dragons Crown/Dragons Crown Statblocks.md",
     "02_Backstorys/Vyneregard ir Richtruf.pdf",
-    "02_Backstorys/Galatari.pdf",
-    "02_Backstorys/Chamira Rangoth.pdf",
+    "gemini-scribe/AGENTS.md",
+    "00_Main Plot Hooks/Die Nebelkrankheit.md",
+    "!Sessionnotes/Session 7 - Kultisten an der Dragons Crown.md",
+    "04_Charaktere/Pitch Stymphalia.md",
+    "04_Charaktere/Galatari.md",
+    "04_Charaktere/Chamira Rangoth.md",
+    "03_Kontinente/Khorvaire/Breland/Zufallstabelle Yedan Hochebene.md",
+    "Lore/Draconic Prophecy.md",
+    "Lore",
+    "Fraktionen/Devourer of Dreams.md",
+    "04_Charaktere/Vyneregard ir Richtruf.md",
+    "03_Kontinente/Khorvaire/Cyre/Das Mournland.md",
+    "03_Kontinente/Khorvaire/Cyre/Cyre Encounter.md",
+    "03_Kontinente/Khorvaire/Cyre/Loot Table.md",
+    "Karten von Khorvaire.md",
+    "!Sessionnotes/Session 1 Die Helden von Cyre.md",
+    "Zeitstrahl des Letzten Krieges.md",
+    "Wesen/Rakshasa.md",
+    "Wesen",
+    "04_Charaktere/Red Ear.md",
+    "03_Kontinente/Khorvaire/Breland/King's Citadel.md",
+    "03_Kontinente/Kyber/Khyber.md",
+    "03_Kontinente/Kyber",
+    "03_Kontinente/Khorvaire/Breland/Dragons Crown",
+    "gemini-scribe/example-prompts.json",
+    "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Scheduled-Tasks",
+    "gemini-scribe/Skills",
     "Mark_of_a_Hero.png",
-    "03_Kontinente/Khorvaire/Breland/Starilaskur/NSC's",
-    "03_Kontinente/Khorvaire/Breland/Unbenannt",
-    "03_Kontinente/Khorvaire/Breland/Starilaskur",
-    "03_Kontinente/Khorvaire/Breland/Vathirond/NSC's",
-    "03_Kontinente/Khorvaire/Breland/Vathirond",
-    "Sidecharacter/Unbenannt",
+    "01_Tokens/CyreTiger.png",
     "01_Tokens/SoldierOfGlass.png",
     "01_Tokens/LivingSpell.png",
     "01_Tokens/LivingRayOfEnfeeblement.png",

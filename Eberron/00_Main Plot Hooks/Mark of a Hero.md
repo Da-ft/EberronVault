@@ -6,8 +6,3 @@ Erhalten am Tag der Trauer in den Ruinen von [[Metrol - Die Stadt der sieben Rin
 - Gewährt individuelle Kräfte (siehe Charakter-Logs).
 ### Risiken 
 - Zieht Monster des Mournlands an.
-
-
-| Character | Level Scaling | Requirement | Effect |
-| --------- | ------------- | ----------- | ------ |
-|           |               |             |        |

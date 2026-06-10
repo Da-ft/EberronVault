@@ -1,0 +1,5 @@
+[[Das Trauer-Beben Der Schlammkollaps von Starilaskur]]
+
+Die Gruppe traf [[Dalvin ,,Der Aal'' Boromar]] in einer Werft in [[Starilaskur - Die Kreuzung Khorvaires]] und fing dort einen Kampf an, da ein paar seiner Schergen sie beschatteten. Der Kampf verlief extrem einseitig, die Schläger hatten keine Chance und wurde fast alle getötet. Nur der Boss überlebte und konnte fliehen. Als die Gruppe die Verfolgung aufnehmen wollte, brach das Trauer Beben los und "schmolz" die Berge um Starilaskur herum.
+Die Gruppe entschloss sich, die Stadt zu fuß zu verlassen, und erstmal per Luftlinie Richtung [[Dragons Crown]] aufzubrechen. Die Gruppe vereinigte sich mit [[Kaela Mirra d'Medani]] am Loch in der Stadtmauer, durch das sie eingangs auch reingekommen waren. Sie konnte etwas Gold auftreiben, und damit den Verlust des Goldes an die ursprünglichen Schmuggler etwas wett machen.
+Die Gruppe schaffte es relativ gut über die Vibrierenden Schienen außerhalb der Stadt. Sie sind jetzt auf dem Weg Richtung [[Dragons Crown]].

@@ -15,7 +15,7 @@
 
 Haus Cannith ist das mächtigste der Häuser, da es die gesamte technologische und magische Infrastruktur von Khorvaire kontrolliert. Von gewöhnlichen Haushaltsgegenständen bis hin zu den gewaltigen Warforged (Kriegsgeschmiedeten) stammt fast alles aus ihren Werkstätten.
 
-**Personal vor Ort:** Das Haus vertraut bei kritischen Transporten auf loyale Agenten wie **[[Red Ear]]**, die trotz schwerer Verletzungen durch hauseigene (oder selbstgebaute) Technologie einsatzfähig bleiben.
+**Personal vor Ort:** Das Haus vertraut bei kritischen Transporten auf loyale Agenten wie **[[[Name]]]**, die trotz schwerer Verletzungen durch hauseigene (oder selbstgebaute) Technologie einsatzfähig bleiben.
 
 ### Aktueller Status (Kampagnenbeginn)
 
