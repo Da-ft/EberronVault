@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e0faac789aae8868",
+            "id": "8ab3a1c2ae8f78a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Kontinente/Khorvaire/Breland/Mistmarsh/Mistmarsh.md",
-                "mode": "preview",
+                "file": "!Sessionnotes/Session 10 - Ankunft in Wroat.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mistmarsh"
-            }
-          },
-          {
-            "id": "5c8262e1d29ed151",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Kontinente/Khorvaire/Breland/Wroat/Wroat.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wroat"
+              "title": "Session 10 - Ankunft in Wroat"
             }
           },
           {
@@ -48,93 +34,8 @@
               "icon": "lucide-file",
               "title": "Echo-061"
             }
-          },
-          {
-            "id": "c94bc9763547f238",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Charaktere/Kaela Mirra d'Medani.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kaela Mirra d'Medani"
-            }
-          },
-          {
-            "id": "fd630ce420772b37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Charaktere/Chamira Rangoth.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chamira Rangoth"
-            }
-          },
-          {
-            "id": "be9878051b5f86a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Charaktere/Galatari.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Galatari"
-            }
-          },
-          {
-            "id": "f254d44eecc4758c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Charaktere/Pitch Stymphalia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pitch Stymphalia"
-            }
-          },
-          {
-            "id": "373a28f3484c6b1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Charaktere/Red Ear.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Red Ear"
-            }
-          },
-          {
-            "id": "4fdcc5b671813bb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Charaktere/Vyneregard ir Richtruf.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vyneregard ir Richtruf"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 285.5
   },
   "right": {
     "id": "8895467512200592",
@@ -294,44 +195,47 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "5c8262e1d29ed151",
+  "active": "8ab3a1c2ae8f78a3",
   "lastOpenFiles": [
+    "02_Backstorys/Vyneregard ir Richtruf.pdf",
+    "00_Main Plot Hooks/Echo-061.md",
+    "!Sessionnotes/Session 10 - Ankunft in Wroat.md",
+    "03_Kontinente/Khorvaire/Breland/Wroat/Alina Lorridan Lyrris.md",
+    "03_Kontinente/Khorvaire/Breland/Wroat/Trelib d’Medani.md",
+    "03_Kontinente/Khorvaire/Breland/Wroat/Three.md",
+    "03_Kontinente/Khorvaire/Breland/Wroat/Familie ir'Wynarn/Galifar ir'Wynarn.md",
+    "03_Kontinente/Khorvaire/Breland/Wroat/Familie ir'Wynarn/Kor ir’Wynarn.md",
+    "03_Kontinente/Khorvaire/Breland/Wroat/Familie ir'Wynarn",
+    "03_Kontinente/Khorvaire/Breland/Wroat/Familie ir'Wynarn/Jurian ir’Wynarn.md",
+    "03_Kontinente/Khorvaire/Breland/Wroat/Familie ir'Wynarn/Haydith ir’Wynarn.md",
+    "03_Kontinente/Khorvaire/Breland/Wroat/Familie ir'Wynarn/König Boranel ir'Wynarn.md",
+    "03_Kontinente/Khorvaire/Breland/Wroat/Wroat.md",
+    "Pasted image 20260710152221.png",
+    "Pasted image 20260710152024.png",
+    "03_Kontinente/Khorvaire/Breland/Wroat/Die Zitadelle des Königs.md",
+    "03_Kontinente/Khorvaire/Breland/King's Citadel.md",
+    "Pasted image 20260710135812.png",
+    "03_Kontinente/Khorvaire/Breland/Unbenannt",
+    "05_Charaktere/Vyneregard ir Richtruf.md",
+    "!Sessionnotes/Session 9 - Die gestrandete Orien-Karawane.md",
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "05_Charaktere/Kaela Mirra d'Medani.md",
     "03_Kontinente/Khorvaire/Breland/Starilaskur/NSC's/Brant Tolwer Informant.md",
     "03_Kontinente/Khorvaire/Breland/Starilaskur/Starilaskur - Die Kreuzung Khorvaires.md",
     "03_Kontinente/Khorvaire/Breland/Starilaskur/NSC's/Feldmarschall Horas ir'Tain.md",
     "03_Kontinente/Khorvaire/Breland/Vathirond/NSC's/Kaelen der Verdammte.md",
     "03_Kontinente/Khorvaire/Breland/Vathirond/Vathirond - Das Tor zum Nichts.md",
-    "!Sessionnotes/Session 9 - Die gestrandete Orien-Karawane.md",
     "03_Kontinente/Khorvaire/Breland/Mistmarsh/Mistmarsh.md",
     "Dorftable.md",
     "08_Dragonhouses/Haus Orien.md",
     "03_Kontinente/Khorvaire/Breland/The Faded Forest/The Faded Forest.md",
-    "03_Kontinente/Khorvaire/Breland/The Lurching Tower.md",
-    "03_Kontinente/Khorvaire/Breland/Zufallstabelle Yedan Hochebene.md",
-    "10_Lore/Der Daelkyr-Krieg.md",
-    "08_Dragonhouses/Haus Cannith.md",
     "03_Kontinente/Khorvaire/Breland/Mistmarsh",
-    "03_Kontinente/Kyber/Khyber.md",
-    "00_Main Plot Hooks/Echo-061.md",
-    "03_Kontinente/Khorvaire/Breland/King's Citadel.md",
-    "03_Kontinente/Khorvaire/Breland/Wroat/Wroat.md",
     "03_Kontinente/Khorvaire/Breland/Wroat",
-    "!Sessionnotes/Session 9 - Die gestrandete.md",
-    "08_Dragonhouses/Haus Medani.md",
-    "07_Fraktionen/Töchter von Sora Kell.md",
-    "07_Fraktionen/Cults of the Dragon Below.md",
-    "10_Lore/Draconic Prophecy.md",
-    "!Sessionnotes/Session 8 - Erstes aufeinandertreffen der Helden mit Vash'ka.md",
-    "12_Material/Dragonseye Oak.md",
     "12_Material",
     "11_Ebenen",
-    "03_Kontinente/Khorvaire/Breland/The Faded Forest",
-    "02_Backstorys/Vyneregard ir Richtruf.pdf",
-    "Lore",
-    "Wesen",
-    "03_Kontinente/Kyber",
-    "03_Kontinente/Khorvaire/Breland/Dragons Crown",
     "Mark_of_a_Hero.png",
     "01_Tokens/CyreTiger.png",
     "01_Tokens/SoldierOfGlass.png",
