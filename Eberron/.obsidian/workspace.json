@@ -6,6 +6,7 @@
       {
         "id": "edf8b07cad66a016",
         "type": "tabs",
+        "dimension": 48.4304932735426,
         "children": [
           {
             "id": "8ab3a1c2ae8f78a3",
@@ -13,12 +14,68 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "07_Fraktionen/Cults of the Dragon Below.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cults of the Dragon Below"
+            }
+          },
+          {
+            "id": "0cb26ad46be0e3fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Kontinente/Khorvaire/Breland/Wroat/Familie ir'Wynarn/Galifar ir'Wynarn.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Galifar ir'Wynarn"
+            }
+          },
+          {
+            "id": "ada77900f23e2e2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "!Sessionnotes/Session 10 - Ankunft in Wroat.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Session 10 - Ankunft in Wroat"
+            }
+          },
+          {
+            "id": "db0b07fbff250e97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Kontinente/Khorvaire/Breland/Wroat/Händler/Elina d'Cannith.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elina d'Cannith"
+            }
+          },
+          {
+            "id": "7e6b571998aad86f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Kontinente/Khorvaire/Breland/Dragons Crown/Dragons Crown.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dragons Crown"
             }
           },
           {
@@ -35,7 +92,44 @@
               "title": "Echo-061"
             }
           }
-        ]
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "69cd9d052815c099",
+        "type": "tabs",
+        "dimension": 51.569506726457405,
+        "children": [
+          {
+            "id": "2dd00451fa9da903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Kontinente/Khorvaire/Breland/Wroat/Familie ir'Wynarn/König Boranel ir'Wynarn.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "König Boranel ir'Wynarn"
+            }
+          },
+          {
+            "id": "5d61ad64070e8fa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Kontinente/Khorvaire/Breland/Wroat/Wroat.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wroat"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,47 +289,48 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "8ab3a1c2ae8f78a3",
+  "active": "ada77900f23e2e2f",
   "lastOpenFiles": [
-    "02_Backstorys/Vyneregard ir Richtruf.pdf",
-    "00_Main Plot Hooks/Echo-061.md",
+    "03_Kontinente/Khorvaire/Breland/Wroat/Wroat.md",
     "!Sessionnotes/Session 10 - Ankunft in Wroat.md",
+    "!Sessionnotes/Session 9 - Die gestrandete Orien-Karawane.md",
+    "03_Kontinente/Khorvaire/Breland/King's Citadel.md",
+    "05_Charaktere/Kaela Mirra d'Medani.md",
+    "03_Kontinente/Khorvaire/Breland/Sharn/Larrian ir'Morgrave.md",
+    "09_Wesen/Rakshasa.md",
+    "!Sessionnotes/Session 8 - Erstes aufeinandertreffen der Helden mit Vash'ka.md",
+    "!Sessionnotes/Session 7 - Kultisten an der Dragons Crown.md",
+    "!Sessionnotes/Session 6 - Das Trauer Beben, und der Schlammkollaps. Flucht aus Starilaskur.md",
+    "!Sessionnotes/Session 1 Die Helden von Cyre.md",
+    "!Sessionnotes/Session 4 flucht aus Vathirond.md",
+    "!Sessionnotes/Session 3 Nekromant in Kalazart.md",
     "03_Kontinente/Khorvaire/Breland/Wroat/Alina Lorridan Lyrris.md",
-    "03_Kontinente/Khorvaire/Breland/Wroat/Trelib d’Medani.md",
+    "03_Kontinente/Khorvaire/Breland/Wroat/Familie ir'Wynarn/König Boranel ir'Wynarn.md",
+    "03_Kontinente/Khorvaire/Breland/Dragons Crown/Dragons Crown Statblocks.md",
+    "03_Kontinente/Khorvaire/Breland/Dragons Crown/Dragons Crown Encounter.md",
+    "03_Kontinente/Khorvaire/Breland/Wroat/Händler/Elina d'Cannith.md",
     "03_Kontinente/Khorvaire/Breland/Wroat/Three.md",
     "03_Kontinente/Khorvaire/Breland/Wroat/Familie ir'Wynarn/Galifar ir'Wynarn.md",
-    "03_Kontinente/Khorvaire/Breland/Wroat/Familie ir'Wynarn/Kor ir’Wynarn.md",
+    "07_Fraktionen/Das Aurum.md",
+    "Pasted image 20260712164113.png",
+    "03_Kontinente/Khorvaire/Breland/Wroat/Händler",
+    "03_Kontinente/Khorvaire/Breland/Wroat/Händler/Händler(Wroat).md",
+    "07_Fraktionen/Die Silberne Flamme.md",
+    "07_Fraktionen/Die Kammer.md",
+    "03_Kontinente/Khorvaire/Breland/Wroat/Tempel Der Silbernen Flamme.md",
+    "03_Kontinente/Khorvaire/Cyre/Das Mournland.md",
+    "03_Kontinente/Khorvaire/Breland/Wroat/Morgrave Außenposten",
+    "Unbenannt.base",
+    "02_Backstorys/Vyneregard ir Richtruf.pdf",
     "03_Kontinente/Khorvaire/Breland/Wroat/Familie ir'Wynarn",
-    "03_Kontinente/Khorvaire/Breland/Wroat/Familie ir'Wynarn/Jurian ir’Wynarn.md",
-    "03_Kontinente/Khorvaire/Breland/Wroat/Familie ir'Wynarn/Haydith ir’Wynarn.md",
-    "03_Kontinente/Khorvaire/Breland/Wroat/Familie ir'Wynarn/König Boranel ir'Wynarn.md",
-    "03_Kontinente/Khorvaire/Breland/Wroat/Wroat.md",
     "Pasted image 20260710152221.png",
     "Pasted image 20260710152024.png",
-    "03_Kontinente/Khorvaire/Breland/Wroat/Die Zitadelle des Königs.md",
-    "03_Kontinente/Khorvaire/Breland/King's Citadel.md",
     "Pasted image 20260710135812.png",
     "03_Kontinente/Khorvaire/Breland/Unbenannt",
-    "05_Charaktere/Vyneregard ir Richtruf.md",
-    "!Sessionnotes/Session 9 - Die gestrandete Orien-Karawane.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
-    "05_Charaktere/Kaela Mirra d'Medani.md",
-    "03_Kontinente/Khorvaire/Breland/Starilaskur/NSC's/Brant Tolwer Informant.md",
-    "03_Kontinente/Khorvaire/Breland/Starilaskur/Starilaskur - Die Kreuzung Khorvaires.md",
-    "03_Kontinente/Khorvaire/Breland/Starilaskur/NSC's/Feldmarschall Horas ir'Tain.md",
-    "03_Kontinente/Khorvaire/Breland/Vathirond/NSC's/Kaelen der Verdammte.md",
-    "03_Kontinente/Khorvaire/Breland/Vathirond/Vathirond - Das Tor zum Nichts.md",
-    "03_Kontinente/Khorvaire/Breland/Mistmarsh/Mistmarsh.md",
-    "Dorftable.md",
-    "08_Dragonhouses/Haus Orien.md",
-    "03_Kontinente/Khorvaire/Breland/The Faded Forest/The Faded Forest.md",
-    "03_Kontinente/Khorvaire/Breland/Mistmarsh",
-    "03_Kontinente/Khorvaire/Breland/Wroat",
-    "12_Material",
-    "11_Ebenen",
     "Mark_of_a_Hero.png",
     "01_Tokens/CyreTiger.png",
     "01_Tokens/SoldierOfGlass.png",
