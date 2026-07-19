@@ -1,0 +1,1 @@
+Dieses schwere, matt-ländliche Erz wird in den Bergen von Droaam abgebaut. Es ist unglaublich dicht und die absolute Geheimwaffe gegen Aberrationen (wie die Schrecken aus dem Reich des Wahnsinns). Perfekt, um eine Waffe oder die Fäuste eines Warforged zu verstärken.

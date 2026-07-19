@@ -1,0 +1,1 @@
+Ein faszinierendes Holz, das niemals stirbt, selbst wenn es geschlagen und geschnitzt wurde. Es behält seine Blätter und Rinde. Magieschmiede nutzen es extrem gerne für Gegenstände, die mit Naturmagie, Heilung oder dem Wiederbeleben von Warforged zu tun haben.

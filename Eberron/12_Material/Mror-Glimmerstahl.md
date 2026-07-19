@@ -1,0 +1,1 @@
+Ein von Zwergen veredeltes Erz, das magische Runen besonders stabil aufnimmt. Erhöht die Erfolgschance bei riskanten Verzauberungen.

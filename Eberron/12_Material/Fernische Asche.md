@@ -1,0 +1,1 @@
+Vulkanische Asche aus der Ebene des Feuers. Verleiht Gegenständen Hitze-Resistenz oder Feuerschaden.

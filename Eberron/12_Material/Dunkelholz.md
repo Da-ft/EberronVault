@@ -1,0 +1,1 @@
+Importiert aus den fernen Wäldern von Aerenal. Dieses Holz ist so hart und widerstandsfähig wie Eisen, wiegt aber nur die Hälfte. Ideal für magische Schilde, leichte Rüstungen oder Bögen.

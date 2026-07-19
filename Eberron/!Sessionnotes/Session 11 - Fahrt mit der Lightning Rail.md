@@ -198,3 +198,65 @@ _Medium Humanoid (Human), Lawful Neutral_
 - **Erfolg (Gewaltlos):** Wenn sie Cole überzeugen und die Kiste verstecken, zieht die Wache ab. Vesper (Talli) bringt die Kiste zurück. Die Gruppe erhält einen sicheren Vorsprung für die Ankunft in Sharn und **1.200 EP** für das gelöste Rätsel.
     
 - **Erfolg (Kampf):** Die Leichen müssen schnell entsorgt werden (aus dem Zug werfen), bevor der nächste Waggon Verdacht schöpft. Sollte Basric entkommen (z.B. via _Misty Step_), wird er den Zugführer alarmieren, was zu einer Vollbremsung führt.
+
+
+
+
+
+ # Haus Ghallanda Reise-Gourmet
+_Willkommen im Salonwagen. Alle unsere Speisen sind durch das Mal der Gastfreundschaft permanent frisch gehalten und werden auf Wunsch mit einer leichten Geschmacks-Illusion (Prestidigitation) nach Ihren persönlichen Vorlieben verfeinert._
+
+### Vorspeisen & Kleinigkeiten
+
+|**Gericht**|**Beschreibung**|**Preis**|
+|---|---|---|
+|**Aundairischer Zauberkäse-Teller**|Eine Auswahl gereifter Käsesorten aus Fairhaven, serviert mit magisch schwebenden, süßen Weintrauben und Nüssen.|1 gm, 5 sm|
+|**Breland-Krabben-Bisque**|Eine cremige Suppe aus Tiefseekrabben, verfeinert mit feurigen Gewürzen aus den untersten Ebenen von Sharn.|1 gm, 2 sm|
+|**Zil-Gewürzbrot mit Drachenblut-Dip**|Warmes, duftendes Kräuterbrot aus Zilargo, serviert mit einer leicht scharfen, rot leuchtenden Dip-Sauce.|8 sm|
+
+### Hauptspeisen
+
+- **Karrnathi Nachtwald-Wildschwein** (3 gm)
+    
+    - _Zartes Wildschweinfleisch, geräuchert über dem Holz des Karrnathi-Nachtwaldes. Serviert mit einer schweren Reduktion aus karrnathi Dunkelbier und glasierten Wurzeln._
+        
+- **Eldeen-Fasan an Beeren-Magie** (2 gm, 8 sm)
+    
+    - _Frischer Fasan aus den Eldeen-Landen, gefüllt mit wildem Reis und übergossen mit einer Sauce aus seltenen Beeren, die auf der Zunge leicht prickeln._
+        
+- **Das cyranische „Erinnerungs“-Gulasch** (4 gm)
+    
+    - _Eine exzellente Replikation des berühmten Hofgerichts aus Metrol vor dem Tag der Asche. Herzhaft, perfekt gewürzt und ein absolutes Muss für nostalgische Patrioten. (Haus Ghallanda garantiert die Echtheit des Rezepts)._
+        
+- **Ebene von Talenta Saurier-Steak** (3 gm, 5 sm)
+    
+    - _Ein perfekt medium gebratenes Steak von einem jungen Beutegreifer aus den Ebenen. Extrem proteinreich, serviert mit einer Kruste aus wilden Steppenkräutern._
+        
+
+### Desserts
+
+- **Mournland-Nebel-Sorbet** (1 gm, 2 sm)
+    
+    - _Ein eisgekühltes Zitronen-Minz-Sorbet, das durch eine kleine Kälte-Evokation permanent einen dichten, silbernen (aber völlig harmlosen!) Nebel über die Schale fließen lässt._
+        
+- **Zil-Zucker-Kristalle** (1 gm, 5 sm)
+    
+    - _Magisch gezuckerte Kunstwerke, die beim Hineinbeißen die Farbe wechseln und den Geschmack der schönsten Kindheitserinnerung des Gastes imitieren._
+        
+
+### Getränkekarte
+
+#### Weine & Spirituosen
+
+- **Auren-Weißwein (Jahrgang '94)** – _Der berühmteste und eleganteste Wein aus Aundair. Trocken, fruchtig, aristokratisch._ (2 gm pro Glas / 8 gm die Flasche)
+    
+- **Karrnathi Stout (Drachen-Reserve)** – _Ein fast schwarzes, extrem starkes Bier. Nichts für schwache Gemüter, aber perfekt für Veteranen._ (6 sm pro Krug)
+    
+- **Lhazaar-Feuerwasser** – _Ein klarer Schnaps aus den Piraten-Fürstentümern. Brennt im Hals und hinterlässt einen Geschmack von Salz und Abenteuer._ (8 sm pro Glas)
+    
+
+#### Alkoholfreie Elixiere
+
+- **Talenta-Eistee** – _Ein erfrischender Kräutertee aus den Ebenen, der dank eines kleinen Frost-Kristalls im Glas niemals warm wird._ (3 sm)
+    
+- **Jorasco-Vitaltee** – _Mit Kräutern aus den Klauen von Haus Jorasco. Vertreibt die Müdigkeit einer langen Zugreise im Handumdrehen._ (5 sm)

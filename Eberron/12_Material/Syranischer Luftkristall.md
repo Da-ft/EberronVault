@@ -1,0 +1,1 @@
+Ein federleichter Kristall aus der Ebene der Luft. Reduziert das Gewicht von Rüstungen oder wird für _Federfall_-Gegenstände genutzt.

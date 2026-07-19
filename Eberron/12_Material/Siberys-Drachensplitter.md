@@ -1,0 +1,1 @@
+Dieser goldene Staub fällt von den Ringen am Himmel und verstärkt die magische Leitfähigkeit. Wenn dein Schmied diesen Staub beim Schmieden als Katalysator nutzt, sinken die Herstellungskosten oder die benötigte Zeit für das Item um **10 %**.

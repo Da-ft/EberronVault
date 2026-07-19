@@ -1,0 +1,1 @@
+Diese rötlichen Steine werden in der Erde gefunden. Sie sind das perfekte Medium, um Zauber in Gegenstände zu binden oder magische Fokusse für Artificer herzustellen.

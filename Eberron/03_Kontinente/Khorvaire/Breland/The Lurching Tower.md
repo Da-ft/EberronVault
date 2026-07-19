@@ -35,11 +35,11 @@ Da Mirra um die Existenz des [[Lurching Tower|Lurching Towers]] weiß, schlägt 
 
 Um das Gelände erfolgreich und schnell zu durchqueren, wird eine **Skill Challenge (3 Erfolge vor 3 Fehlschlägen)** durchgeführt. Die Herausforderung liegt hierbei auf Physis, Spurenverwischung und Orientierung.
 
-| Fertigkeit | SG | Mögliche Anwendung / Beschreibung |
-| :--- | :---: | :--- |
-| **Stärke (Leichtathletik)** | **14** | Den schweren Handkarren durch schlammige Senken, tiefen Sand oder über umgestürzte Bäume wuchten. *(Diesen Wurf müssen mindestens zwei Charaktere unterstützen).* |
-| **Weisheit (Überleben / Survival)** | **13** | Den sichersten Pfad abseits arkaner Bodenrisse finden. Ein Fehlschlag führt in ein tückisches Schlammloch. |
-| **Weisheit (Heimlichkeit / Stealth)** | **14** | Die tiefen Radspuren des Karrens im Schlamm verwischen, damit eventuelle Citadel-Patrouillen die Fährte verlieren. |
+| Fertigkeit                             |   SG   | Mögliche Anwendung / Beschreibung                                                                                                                                  |
+| :------------------------------------- | :----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Stärke (Leichtathletik)**            | **14** | Den schweren Handkarren durch schlammige Senken, tiefen Sand oder über umgestürzte Bäume wuchten. *(Diesen Wurf müssen mindestens zwei Charaktere unterstützen).*  |
+| **Weisheit (Überleben / Survival)**    | **13** | Den sichersten Pfad abseits arkaner Bodenrisse finden. Ein Fehlschlag führt in ein tückisches Schlammloch.                                                         |
+| **Weisheit (Heimlichkeit / Stealth)**  | **14** | Die tiefen Radspuren des Karrens im Schlamm verwischen, damit eventuelle Citadel-Patrouillen die Fährte verlieren.                                                 |
 | **Intelligenz (Natur / Arkane Kunde)** | **13** | Lokale Flora erkennen, die durch die Strahlung des Turms mutiert ist (z. B. ätzender *Äther-Ahorn-Saft* auf den Blättern, der die Holzräder des Karrens angreift). |
 
 ### Besondere Modifikatoren:

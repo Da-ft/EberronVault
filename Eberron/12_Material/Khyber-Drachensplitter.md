@@ -1,0 +1,1 @@
+Diese tiefen, nachtblauen Kristalle wachsen tief in der Unterwelt. Sie werden zwingend benötigt, wenn dein Schmied vorhat, eine Kreatur oder einen Elementar in einen Gegenstand zu binden (z. B. für eine Waffe, die Feuerschaden verursacht).
