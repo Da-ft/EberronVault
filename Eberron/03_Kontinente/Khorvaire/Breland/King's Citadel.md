@@ -13,7 +13,7 @@ Die Citadel ist in vier spezialisierte Abteilungen unterteilt, die jeweils unter
 
 - **The Dark Lanterns (Die Dunklen Laternen):** Der berüchtigtste Zweig. Sie sind die klassischen Spione und Attentäter. Ihre Aufgabe ist die Informationsbeschaffung im Ausland und die Durchführung „schwarzer Operationen“. Feldwebel Mirra steht diesem Zweig nahe.
     
-- **The King’s Shields (Die Schilde des Königs):** Verantwortlich für den Personenschutz des Königs und der königlichen Familie. Sie arbeiten oft eng mit [[Haus Medani]] zusammen.
+- **The King’s Shields (Die Schilde des Königs):** Verantwortlich für den Personenschutz des Königs und der königlichen Familie. Sie arbeiten oft eng mit [[House Medani]] zusammen.
     
 - **The King’s Swords (Die Schwerter des Königs):** Eine Elite-Spezialeinheit für militärische Operationen, die zu sensibel für die reguläre Armee sind (z. B. Geiselbefreiungen oder Sabotage).
     

@@ -24,7 +24,7 @@ Starilaskur ist die zweitwichtigste Militärbasis Brelands und das logistische H
 ## 1. Geografie & Logistische Bedeutung
 
 Starilaskur liegt strategisch perfekt an der Kreuzung der wichtigsten Handelswege:
-* **Die Blitzschiene (Lightning Rail):** Hier treffen die Linien aus Sharn/Wroat auf die (nun blockierten oder umgeleiteten) Schienen des Ostens.
+* **Die Blitzschiene ([[Lightning Rail]]):** Hier treffen die Linien aus Sharn/Wroat auf die (nun blockierten oder umgeleiteten) Schienen des Ostens.
 * **Der Brey-Fluss:** Der Fluss, auf dem eure Helden unterwegs sind, fließt direkt an den massiven Süddocks der Stadt vorbei.
 * **Das Nadelöhr:** Da die Schienenwege durch Cyre (das Mournland) komplett vernichtet wurden, ist Starilaskur die „Endstation“ für alle Transporte, die evakuiert wurden. Hier staut sich alles.
 

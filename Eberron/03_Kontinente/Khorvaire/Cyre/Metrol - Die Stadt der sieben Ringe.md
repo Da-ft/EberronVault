@@ -10,7 +10,7 @@ Metrol war die Hauptstadt von Cyre und galt als die schönste Stadt in ganz Khor
 ### Wichtige Orte
 - **Die Vermishard-Türme:** Das königliche Viertel, in dem die Türme wie riesige Kristallbäume in den Himmel ragen.
 - **Die Kathedrale der Souveränen Hostie:** Ein architektonisches Meisterwerk aus weißem Marmor und Gold.
-- **Whitehearth:** Das Herz von [[Haus Cannith]], ein gewaltiger Komplex aus Schmieden und Laboren.
+- **Whitehearth:** Das Herz von [[House Cannith]], ein gewaltiger Komplex aus Schmieden und Laboren.
 
 ### Die aktuelle Lage (Start der Kampagne)
 Die Stadt ist im Chaos. Die Armee von Thrane rückt von Westen vor, während karrnathische Untote den Norden bedrohen. Die Spieler befinden sich am Nordtor, bereit zur Evakuierung, als die Katastrophe eintritt.

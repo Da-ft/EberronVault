@@ -17,3 +17,5 @@ Die Morgrave Universität ist berühmt und berüchtigt zugleich. Während sie ex
 
 ### Bezug zur Gruppe
 Die Universität ist oft der Auftraggeber für riskante Missionen in Ruinen. Galatari hat hier ihre Ausbildung erhalten, schätzt aber die moralisch fragwürdigen Methoden der Unileitung nicht. Für die Gruppe könnte die Uni als Informationsquelle über den "Tag der Trauer" dienen.
+
+![[MorgraveUniversity.png]]

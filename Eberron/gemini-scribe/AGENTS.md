@@ -24,7 +24,7 @@ Die Notizen sind stark untereinander verknüpft, insbesondere um NSCs direkt mit
 ## Key Topics
 
 - **Eberron-Setting & Geografie**: Fokus auf den Kontinent Khorvaire (Nationen Breland und das vom Tag der Trauer zerstörte Cyre/Mournland) sowie die Tiefen von Khyber.
-- **Drachenhäuser (Dragonmarked Houses)**: Die einflussreichen Dynastien wie [[Haus Cannith]], [[Haus Medani]], [[Haus Orien]], [[Haus Tharashk]] und [[Haus Sivis]].
+- **Drachenhäuser (Dragonmarked Houses)**: Die einflussreichen Dynastien wie [[House Cannith]], [[House Medani]], [[House Orien]], [[House Tharashk]] und [[House Sivis]].
 - **Kampagnen-Plot-Hooks**: Mysterien wie [[Die Nebelkrankheit]], [[Echo-061]], [[Mark of a Hero]] und die Nachwirkungen des Trauer-Bebens.
 - **Fraktionen und Gruppen**: Organisationen wie die [[Töchter von Sora Kell]], [[Devourer of Dreams]], [[Die Kammer]], [[Die Silberne Flamme]] sowie die [[Cults of the Dragon Below]] und [[Overlords]].
 - **Charakter- und NSC-Verwaltung**: Profile von spielerrelevanten Charakteren (z. B. [[Chamira Rangoth]], [[Pitch Stymphalia]]) und lokalen Akteuren in den Städten (z. B. [[Brant Tolwer Informant]]).

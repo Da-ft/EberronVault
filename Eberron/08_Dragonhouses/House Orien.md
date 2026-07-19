@@ -1,4 +1,4 @@
-**Volk:** Menschen **Drachenmal:** Das Mal des Übergangs (Mark of Passage) **Hauptsitz:** Die Enklave _Passage_ in [[Aundair]] **Gildenmeister:** Baron Kwanti d'Orien **Wirtschaftlicher Fokus:** Transport, Logistik, Post- und Kurierdienste, die Blitzschienen (Lightning Rail)
+**Volk:** Menschen **Drachenmal:** Das Mal des Übergangs (Mark of Passage) **Hauptsitz:** Die Enklave _Passage_ in [[Aundair]] **Gildenmeister:** Baron Kwanti d'Orien **Wirtschaftlicher Fokus:** Transport, Logistik, Post- und Kurierdienste, die Blitzschienen ([[Lightning Rail]])
 
 > „Die Welt ist riesig, unberechenbar und voller Gefahren. Aber solange du die Münzen hast, bringt Haus Orien dich – oder deine Geheimnisse – pünktlich an jeden Ort auf Khorvaire.“
 
@@ -12,7 +12,7 @@ Haus Orien kontrolliert den Markt über zwei riesige Gilden, die in fast jedem g
 
 - **Die Kuriergilde (Couriers Guild):** Zuständig für Nachrichten, Post und den Transport sensibler oder wertvoller Güter. Ein Orien-Kurier garantiert absolute Diskretion und Schnelligkeit. Für einen extremen Aufpreis bieten hochrangige Hausmitglieder magische Kurierdienste an, bei denen Nachrichten durch Dimensionstore (Teleportation) augenblicklich ans Ziel gebracht werden.
     
-- **Die Transportgilde (Transportation Guild):** Kontrolliert die massiven Karawanen und, am wichtigsten, das Netzwerk der **Blitzschienen** (Lightning Rail). Die Gilde sorgt dafür, dass Truppen, Handelsgüter und Passagiere sicher von einem Ende des Kontinents zum anderen gelangen.
+- **Die Transportgilde (Transportation Guild):** Kontrolliert die massiven Karawanen und, am wichtigsten, das Netzwerk der **Blitzschienen** ([[Lightning Rail]]). Die Gilde sorgt dafür, dass Truppen, Handelsgüter und Passagiere sicher von einem Ende des Kontinents zum anderen gelangen.
     
 
 ## 3. Die aktuelle Krise: Das zerbrochene Monopol

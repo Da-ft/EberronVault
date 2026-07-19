@@ -17,14 +17,14 @@ tags:
 * **Wahre Identität:** Changeling (Formwandler)
 * **Öffentliche Identität:** Halbelfe (Khoravar)
 * **Spitzname (unwissentlich):** „Cha“ (Ihr wahrer Name, von Freunden als bloße Abkürzung genutzt)
-* **Großes Ziel:** Offizielle Aufnahme in die Ränge von [[Haus Medani]], ohne ihre wahre Natur verleugnen zu müssen.
+* **Großes Ziel:** Offizielle Aufnahme in die Ränge von [[House Medani]], ohne ihre wahre Natur verleugnen zu müssen.
 * **Gesinnung:** Rechtschaffend (Lehnt Kriminalität, Spionage für das organisierte Verbrechen oder Auftragsmorde strikt ab).
 
 ---
 
 ## 📜 Hintergrund & Die doppelte Identität
 
-Chamira lernte schon in ihrer frühesten Kindheit die härteste Lektion des Überlebens: **Verberge, was du bist.** Ihr einzig bekanntes Elternteil – ein Changeling namens **Sar** – lebte ihr dieses Doppelleben perfekt vor. Unter dem Tarnmantel der Halbelfe **Lyssara** arbeitet Sar seit Jahren erfolgreich mit [[Haus Medani]] zusammen. 
+Chamira lernte schon in ihrer frühesten Kindheit die härteste Lektion des Überlebens: **Verberge, was du bist.** Ihr einzig bekanntes Elternteil – ein Changeling namens **Sar** – lebte ihr dieses Doppelleben perfekt vor. Unter dem Tarnmantel der Halbelfe **Lyssara** arbeitet Sar seit Jahren erfolgreich mit [[House Medani]] zusammen. 
 
 Bis auf Sar weiß absolut *niemand*, dass Chamira eine Formwandlerin ist. Selbst ihre engsten Freunde aus Kindheitstagen ahnen nichts. Ironischerweise nutzen sie ihren wahren Namen „Cha“ täglich als vermeintlich harmlosen Spitznamen für Chamira.
 

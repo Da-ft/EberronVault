@@ -9,12 +9,12 @@ status: In Rehabilitation
 > "Ein magischer Stein und zu viel Selbstvertrauen kosten dich mehr als nur die Zeit."
 
 ### Hintergrund
-Ein Agent von [[Haus Cannith]], der den Großteil seines Lebens als Söldner an den Fronten des Letzten Krieges verbrachte. Sein Leben änderte sich schlagartig durch einen Unfall an der Front: Ein Experiment mit einem magischen Gestein ging schief, wodurch er beide Hände und einen Großteil seines rechten Arms verlor. 
+Ein Agent von [[House Cannith]], der den Großteil seines Lebens als Söldner an den Fronten des Letzten Krieges verbrachte. Sein Leben änderte sich schlagartig durch einen Unfall an der Front: Ein Experiment mit einem magischen Gestein ging schief, wodurch er beide Hände und einen Großteil seines rechten Arms verlor. 
 
 Anstatt aufzugeben, konstruierte er sich eigene Prothesen. Aktuell befindet er sich in der Phase der Rehabilitation und versucht, durch die Mission in [[Metrol - Die Stadt der sieben Ringe]] wieder in den aktiven Dienst zurückzukehren.
 
 ### Verbindungen
-- **Arbeitgeber:** [[Haus Cannith]] (Bereitstellung von Ressourcen für seine Prothesen).
+- **Arbeitgeber:** [[House Cannith]] (Bereitstellung von Ressourcen für seine Prothesen).
 - **Vergangenheit:** Diverse Söldnereinheiten (Namen nach Bedarf ergänzen).
 
 ### Besonderheiten: Die Prothesen

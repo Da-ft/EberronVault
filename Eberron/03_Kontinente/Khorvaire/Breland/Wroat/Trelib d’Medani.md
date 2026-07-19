@@ -26,4 +26,4 @@ Trelib ist derzeit mit einer hochsensiblen und prestigeträchtigen Aufgabe betra
 
 ## 4. Historischer Kontext
 
-Während des Letzten Krieges wahrte Haus Medani offiziell die Neutralität, wie es den anderen drachengezeichneten Häusern entsprach. Es halten sich jedoch hartnäckige Gerüchte, dass Trelib das Haus dazu nutzte, über [[Haus Sivis]] und Verbündete in [[Zilargo]] verdeckt Geheimdienstinformationen an seine Heimat, Breland, weiterzuleiten. Es wird angenommen, dass dies maßgeblich auf Trelibs persönliche Loyalität zu Boranel zurückzuführen ist.
+Während des Letzten Krieges wahrte Haus Medani offiziell die Neutralität, wie es den anderen drachengezeichneten Häusern entsprach. Es halten sich jedoch hartnäckige Gerüchte, dass Trelib das Haus dazu nutzte, über [[House Sivis]] und Verbündete in [[Zilargo]] verdeckt Geheimdienstinformationen an seine Heimat, Breland, weiterzuleiten. Es wird angenommen, dass dies maßgeblich auf Trelibs persönliche Loyalität zu Boranel zurückzuführen ist.

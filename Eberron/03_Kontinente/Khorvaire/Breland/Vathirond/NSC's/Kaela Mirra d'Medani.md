@@ -14,7 +14,7 @@ Challenge Rating: 5
 > "Die Wahrheit ist kein Geschenk, sie ist eine Waffe. Und ich werde nicht unbewaffnet sterben."
 
 * **Zugehörigkeit:** [[The Dark Lanterns]] ([[King's Citadel]])
-* **Volk:** Mensch (Trägerin des [[Haus Medani|Medani-Drachenmals]])
+* **Volk:** Mensch (Trägerin des [[House Medani|Medani-Drachenmals]])
 * **Rolle:** Unberechenbare Verbündete / Getriebene Pragmatikerin
 * **Bedrohungsstufe:** Extrem gefährlich (CR 5)
 
@@ -22,7 +22,7 @@ Challenge Rating: 5
 
 ## 1. Hintergrundgeschichte & Motivation
 
-Mirra wurde in die niederen Ränge des [[Haus Medani|Hauses Medani]] hineingeboren. Ihr Mal der Warnung manifestierte sich früh und intensiv, doch statt die klassische Laufbahn als Leibwächterin oder noble Inquisitrix einzuschlagen, wurde sie während des letzten Krieges vom [[Breland|breländischen]] Geheimdienst rekrutiert. Sie sah zu viel Schmutz, zu viele gebrochene Verträge und zu viele sinnlose Tode, um noch an die alten Ideale der Drachenmal-Häuser zu glauben. Ihre Loyalität gilt nicht primär [[König Boranel]], sondern dem nackten Überleben Brelands.
+Mirra wurde in die niederen Ränge des [[House Medani|Hauses Medani]] hineingeboren. Ihr Mal der Warnung manifestierte sich früh und intensiv, doch statt die klassische Laufbahn als Leibwächterin oder noble Inquisitrix einzuschlagen, wurde sie während des letzten Krieges vom [[Breland|breländischen]] Geheimdienst rekrutiert. Sie sah zu viel Schmutz, zu viele gebrochene Verträge und zu viele sinnlose Tode, um noch an die alten Ideale der Drachenmal-Häuser zu glauben. Ihre Loyalität gilt nicht primär [[König Boranel]], sondern dem nackten Überleben Brelands.
 
 Der Tag der Trauer (vor vier Tagen) hat ihre Weltanschauung zertrümmert. Ihre Sinne flüstern ihr ununterbrochen, dass Khorvaire am Rande des totalen Kollapses steht. Als die Helden mit der Kiste Die Kiste ([[Echo-061]]) einfuhren, schlug ihr Mal so heftig an, dass sie wusste: Das hier ist die einzige Antwort, die wir je bekommen werden. Sie bricht ihre Befehle nicht aus Verrat, sondern weil sie der Führung in [[Wroat]] nicht zutraut, das Geheimnis rechtzeitig zu entschlüsseln, bevor der Nebel weiter wächst.
 
@@ -38,7 +38,7 @@ Der Tag der Trauer (vor vier Tagen) hat ihre Weltanschauung zertrümmert. Ihre S
 
 ## 3. Einzigartige Ausrüstung: Die Mantis-Klingen (*Medani Mantis Blades*)
 
-Diese Waffen sind ein absolutes Unikat – eine illegale Kreuzung aus [[Haus Cannith|Cannith-Ingenieurskunst]] und [[Haus Medani|Medani-Planarmagie]], die Mirra von einem abtrünnigen Erfinder auf dem Schwarzmarkt von [[Sharn - die Stadt der Türme|Sharn]] anfertigen ließ.
+Diese Waffen sind ein absolutes Unikat – eine illegale Kreuzung aus [[House Cannith|Cannith-Ingenieurskunst]] und [[House Medani|Medani-Planarmagie]], die Mirra von einem abtrünnigen Erfinder auf dem Schwarzmarkt von [[Sharn - die Stadt der Türme|Sharn]] anfertigen ließ.
 
 * **Mechanismus:** Die Klingen sind in mechanische Unterarmschienen aus mattschwarzem Mithril integriert. Durch eine Muskelzuckung schnellen zwei hauchdünne, gezackte Klingen (ähnlich den Fangarmen einer Gottesanbeterin) über ihre Handrücken nach vorne.
 * **Die arkane Verbindung:** Die Klingen sind direkt mit ihrem Nervensystem und ihrem Drachenmal verdrahtet. Wenn Mirra den Angriff eines Gegners voraussieht, leiten die Klingen diese psychische Energie direkt in die Waffe, wodurch sie mit unheimlicher Präzision und tödlichem psychischen Feedback zuschlagen kann.

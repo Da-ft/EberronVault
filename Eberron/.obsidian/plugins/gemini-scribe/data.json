@@ -119,11 +119,6 @@
         "maxTemperature": 2
       },
       {
-        "value": "gemini-3-pro-preview",
-        "label": "Gemini 3 Pro Preview",
-        "maxTemperature": 2
-      },
-      {
         "value": "gemini-3.1-flash-lite",
         "label": "Gemini 3.1 Flash Lite",
         "maxTemperature": 2
@@ -154,9 +149,11 @@
       {
         "value": "gemini-omni-flash-preview",
         "label": "Gemini Omni Flash Preview",
-        "maxTemperature": 2
+        "supportsImageGeneration": true,
+        "maxTemperature": 2,
+        "interactionsOnly": true
       }
     ],
-    "timestamp": 1783847474169
+    "timestamp": 1784456307054
   }
 }

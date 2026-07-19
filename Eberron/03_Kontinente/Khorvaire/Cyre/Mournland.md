@@ -50,4 +50,4 @@ Obwohl das Land tödlich ist, gibt es Gruppen, die dort ausharren:
 
 - **Der Lord der Klingen (Lord of Blades):** Ein kriegstreiberischer Warforged-Messias, der in den Ruinen von Cyre eine Armee aus Kriegsgeschmiedeten aufbaut, um sich an den Schöpfer-Rassen zu rächen.
     
-- **Die Schrottsammler (Scavengers):** Verzweifelte Banden, die am Rand des Nebels nach Artefakten von [[Haus Cannith]] suchen.
+- **Die Schrottsammler (Scavengers):** Verzweifelte Banden, die am Rand des Nebels nach Artefakten von [[House Cannith]] suchen.

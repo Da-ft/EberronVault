@@ -15,7 +15,7 @@ Diese Gruppe wurde am 20. Olarune 994 YK in [[Metrol - Die Stadt der sieben Ring
 * [[Red Ear]] - Agent von Haus Cannith, Mechaniker und Ingenieur
 
 ## Die Mission: "Nebelschleier"
-**Auftraggeber:** Ein Agent von [[Haus Cannith]].
+**Auftraggeber:** Ein Agent von [[House Cannith]].
 **Ziel:** Eskorte einer versiegelten Artefakt-Kiste aus [[Metrol - Die Stadt der sieben Ringe]] heraus, bevor die Stadt fällt.
 **Status:** In Ausführung (Tag der Trauer steht unmittelbar bevor).
 

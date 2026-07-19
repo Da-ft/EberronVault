@@ -13,7 +13,7 @@ Die Cyrer waren stolz auf ihre Philosophie der ästhetischen Magie. In Cyre war 
 
 ### Wirtschaft
 - **Export:** Magische Luxusgüter, Kunstwerke, feine Kleidung.
-- **Drachenhäuser:** [[Haus Cannith]] hatte hier seinen Hauptsitz (Die Whitehearth-Schmiede).
+- **Drachenhäuser:** [[House Cannith]] hatte hier seinen Hauptsitz (Die Whitehearth-Schmiede).
 
 ### Der Tag der Trauer
 Am 20. Olarune 994 YK wurde Cyre von einer grauen Nebelwand verschlungen. Alles innerhalb der Grenzen wurde entweder vernichtet, mutiert oder in der Zeit eingefroren. Cyre existiert nicht mehr als Nation, sondern nur noch als das gefährliche [[Mournland]].

@@ -47,7 +47,7 @@ In Khorvaire ist Magie keine seltene Kunst, sondern die Grundlage der Industrie.
     
 - **Der Blitz-Express (Lightning Rail):** Ein schwebendes Zugsystem, das die großen Städte verbindet.
     
-- **Kriegsgeschmiedete (Warforged):** Künstliche, lebendige Wesen, die von [[Haus Cannith]] für den Krieg erschaffen wurden und nun nach ihrer Freiheit suchen.
+- **Kriegsgeschmiedete (Warforged):** Künstliche, lebendige Wesen, die von [[House Cannith]] für den Krieg erschaffen wurden und nun nach ihrer Freiheit suchen.
     
 
 ### 5. Die Drachenmal-Häuser

@@ -1,6 +1,6 @@
 **Status:** Ruine / Geisterstadt
 **Region:** [[Mournland]] (ehemals Zentralebene von [[Cyre]])
-**Lage:** Strategisch günstig an der Kreuzung des Blitz-Express (Lightning Rail) zwischen Metrol und Passpassage.
+**Lage:** Strategisch günstig an der Kreuzung des Blitz-Express ([[Lightning Rail]]) zwischen Metrol und Passpassage.
 
 ### 1. Historische Bedeutung
 
@@ -18,7 +18,7 @@ Kalazart ist eines der unheimlichsten Beispiele für die **Konservierung des Tod
 
 - **Die Statuen-Bürger:** Die Einwohner von Kalazart sind nicht geflohen. Sie stehen oder sitzen noch immer an ihren Plätzen. Ein Schmied hält den Hammer über den Amboss gehoben; eine Mutter hält ihr Kind fest. Sie sind physisch perfekt erhalten, aber ihre Seelen scheinen in einer unendlichen Sekunde des Schreckens festzustecken.
 
-- **Der tote Blitz-Express:** Ein verlassener Zug von [[Haus Orien]] steht noch immer im Bahnhof von Kalazart. Die conductor-steine glühen in einem kränklichen Violett, und der Zug scheint darauf zu warten, eine Fahrt anzutreten, die niemals stattfinden wird.
+- **Der tote Blitz-Express:** Ein verlassener Zug von [[House Orien]] steht noch immer im Bahnhof von Kalazart. Die conductor-steine glühen in einem kränklichen Violett, und der Zug scheint darauf zu warten, eine Fahrt anzutreten, die niemals stattfinden wird.
 
 
 ### 4. Gefahren vor Ort
