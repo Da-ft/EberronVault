@@ -1,1 +1,1 @@
-Ein menschlicher Magieschmied an der Morgrave Universität. Er ist Galataris Mentor und half ihr bei der Konstruktion ihrer einzigartigen Metall-Feder.
+Ein elfischer Magieschmied an der Morgrave Universität. Er ist Galataris Mentor und half ihr bei der Konstruktion ihrer einzigartigen Metall-Feder.
